@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">What Should I Do</string>
+    <string name="ad_kod">ca-app-pub-9534033206643361</string>
+
+    <string name="Text1">Watch a movie</string>
+    <string name="Text2">Go on walk</string>
+    <string name="Text3">Meet with "\n" friend</string>
+    <string name="Text4">Listen to music</string>
+    <string name="Text5">Learn something "\n" new</string>
+    <string name="Text6">Watch a series</string>
+    <string name="Text7">Chat with friend</string>
+    <string name="Text8">Play some "\n" games</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+
+    <string name="aboutTitle">About</string>
+    <string name="aboutText">
+        What Should I Do \n
+        APLHA v0.7 \n
+        \n
+        Author \n
+        Hubert Morawski \n
+        \n
+        Professional Voice Acting \n
+        Michał Kiszka
+    </string>
+
+</resources>
